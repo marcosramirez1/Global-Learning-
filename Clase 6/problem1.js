@@ -15,5 +15,6 @@ class Heroe {
 
 const heroe = new Heroe ()
      
-      console.log (heroe) 
+      console.log (heroe) ;
+      
 
